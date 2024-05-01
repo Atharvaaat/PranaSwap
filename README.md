@@ -1,4 +1,4 @@
-# Dappazon
+# PranaSwap
 
 ## Technology Stack & Tools
 
