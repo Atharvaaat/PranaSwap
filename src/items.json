@@ -1,0 +1,86 @@
+
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "50034.02 kWh ",
+      "category": "electronics",
+      "image": "http://k51qzi5uqu5djexbnpqhuje61mwuwnhd2xw6yuifr9zzkzxwog39xf14f4xkr7.ipns.localhost:8080/",
+      "price": "1.776",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "4590067.65 kWh",
+      "category": "electronics",
+      "image": "http://k51qzi5uqu5djexbnpqhuje61mwuwnhd2xw6yuifr9zzkzxwog39xf14f4xkr7.ipns.localhost:8080/",
+      "price": "163.04",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "13570.75 kWh",
+      "category": "electronics",
+      "image": "http://k51qzi5uqu5djexbnpqhuje61mwuwnhd2xw6yuifr9zzkzxwog39xf14f4xkr7.ipns.localhost:8080/",
+      "price": "0.4817",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "56700.56 KWh",
+      "category": "clothing",
+      "image": "http://k51qzi5uqu5dkahu3h4zawjw5zh9r4hvqkwi22vxxdzsh7ouguf36p3w6k9slg.ipns.localhost:8080/",
+      "price": "2.013",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "13570.75 kWh",
+      "category": "clothing",
+      "image": "http://k51qzi5uqu5dkahu3h4zawjw5zh9r4hvqkwi22vxxdzsh7ouguf36p3w6k9slg.ipns.localhost:8080/",
+      "price": "0.482",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "15673.75 kWh",
+      "category": "clothing",
+      "image": "http://k51qzi5uqu5dkahu3h4zawjw5zh9r4hvqkwi22vxxdzsh7ouguf36p3w6k9slg.ipns.localhost:8080/",
+      "price": "0.556",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "6766000.73 kWh",
+      "category": "toys",
+      "image": "http://k51qzi5uqu5dg9v687jwx98jvf1yk1h91bozpv1sn1anqtyq78zz275cj68qzx.ipns.localhost:8080/",
+      "price": "240.04",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "23770.12 kWh",
+      "category": "toys",
+      "image": "http://k51qzi5uqu5dg9v687jwx98jvf1yk1h91bozpv1sn1anqtyq78zz275cj68qzx.ipns.localhost:8080/",
+      "price": "0.844",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "1565870.75 kWh",
+      "category": "toys",
+      "image": "http://k51qzi5uqu5dg9v687jwx98jvf1yk1h91bozpv1sn1anqtyq78zz275cj68qzx.ipns.localhost:8080/",
+      "price": "55.588",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
